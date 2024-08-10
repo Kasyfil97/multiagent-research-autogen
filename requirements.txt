@@ -1,0 +1,4 @@
+apify-client==1.7.1
+pyautogen==0.2.32
+python-dotenv==0.17.1
+requests==2.32.3
